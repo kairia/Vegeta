@@ -1,0 +1,179 @@
+/* Kaicode */
+html{
+  max-width:1264px;
+  height: auto;
+  padding: 0;
+  margin:auto;
+  background-color: #EDF2C5;
+}
+.main{
+  padding-left:160;
+  padding-right:160;
+  padding-top:53;
+
+}
+/* navvvvvvvvvvv */
+.title #main{
+  display: block;
+}
+.title #main #title{
+  color:#778A50;
+  font-family: Arial Black, Helvetica, sans-serif;
+  width: 271px;
+  height: 42px;
+  font-size: 44px;
+  font-weight: bold;
+  padding: 0;
+  margin-bottom: 8;
+}
+.title #main #sub{
+  position: relative;
+  color:#778A50;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:14px;
+  font-weight: bold;
+  padding:3px 6px;
+  border:solid 1px;
+  border-radius: 3px;
+  bottom:9px;
+  left:468px;
+  width: 60px;
+  margin:0;
+  margin-left: 6px;
+}
+.title #main #img2{
+  position: relative;
+  border-right: solid 1px;
+  bottom: 2px;
+  padding-right: 10px;
+  left:468px;
+}
+.title #main #img1{
+  position: relative;
+  margin:0;
+  margin-right: 7px;
+  bottom: 2px;
+  left:468px;
+}
+/* navvvvvvvvvvv */
+.nav{
+  padding:0;
+  padding-left:30px;
+  margin-top: 8px;
+  background-color:#778A50;
+  width: 910px;
+  height: 44px;
+}
+
+.nav-list{
+  padding:0;
+  margin:0;
+}
+.nav-list-item{
+ display: inline-block;
+ list-style: none;
+ margin-right: 60px;
+ margin-top: 16px;
+ margin-bottom: 16px;
+}
+.nav-list-item-link{
+  font-family: Arial Black, Helvetica, sans-serif;
+  color:#EDF2C5;
+  font-size: 16px;
+ }
+ /* mainnnnnnnnnnnnnnnnnn pic */
+.mainpic{
+ position: relative;
+  top:20px;
+}
+/* sec3 VEGETA/CONTACT */
+.sec3{
+  display: flex;
+}
+.subtitle{
+  
+  position: relative;
+  top:50px;
+  display: inline-block;
+}
+.subtitle a{
+  font-family: Arial Black, Helvetica, sans-serif;
+  color:#EDF2C5;
+}
+.subtitle .subtitlecontainer{
+  padding: 0;
+  padding-top: 15px;
+  padding-left: 30px;
+  margin:0;
+  background-color: #778A50;
+  width:415px;
+  height:30px;
+  margin-right: 50px;
+}
+/* sec4 PICS/INFO */
+.sec4{
+  position: relative;
+  top:65px;
+}
+.sec4 .img{
+margin-right: 8px;
+max-width: 140px;
+max-height: 140px;
+}
+.sec4 .bg{
+  background-color: #F7FBDA;
+  width:445px;
+  height: 140px;
+  }
+.sec4 .info{
+  position: absolute;
+  background-color: #F7FBDA;
+  width:445px;
+  height: 140px;
+  margin-left:42px; 
+}
+.sec4 .info-description{
+  font-family: ArialMT Regular, Helvetica, sans-serif;
+  color: #7D7D7D;
+  position: absolute;
+  padding-top: 16px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 12px;
+  line-height: 1.33;
+  }
+  .sec4 .info-contact{
+    font-family: ArialMT Regular, Helvetica, sans-serif;
+    color: #7D7D7D;
+    position: relative;
+    top:77px;
+    font-size: 12px;
+    line-height: 1.33;
+    justify-content: center;
+    padding-top: 16px;
+    margin-left:15px; 
+    max-width: 414px;
+    border-top:solid #7D7D7D 1px;
+    }
+    /* FOOOOTAH */
+    
+  .footer{
+    font-family: ArialMT Regular, Helvetica, sans-serif;
+      background-color: #778A50;
+      position: relative;
+      top:97px;
+      width: auto;
+      height: 60px;
+      font-size: 12px;
+      text-align: center;
+      line-height: 60px;
+      justify-content: center;
+      color: #EDF2C5;
+  }
+  .kai{
+    position: fixed;
+    left:10;
+    bottom:10;
+    max-width: 90;
+    background-color:#778A50;
+  }
