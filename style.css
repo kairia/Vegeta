@@ -74,8 +74,8 @@ html{
  display: inline-block;
  list-style: none;
  margin-right: 60px;
- margin-top: 16px;
- margin-bottom: 16px;
+ margin-top: 14px;
+ margin-bottom: 14px;
 }
 .nav-list-item-link{
   font-family: Arial Black, Helvetica, sans-serif;
@@ -157,7 +157,7 @@ max-height: 140px;
     max-width: 414px;
     border-top:solid #7D7D7D 1px;
     }
-    /* FOOOOTAH */
+  /* FOOOOTAH */
     
   .footer{
     font-family: ArialMT Regular, Helvetica, sans-serif;
